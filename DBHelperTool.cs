@@ -17,8 +17,8 @@ namespace MySchool
     {
         /// <summary>
         ///链接字符串 
-        /// </summary>
-        private static string constr = @"server=.;database=MySchool;user=sa;pwd=114514";
+        /// </summary>T
+        private static string constr = @"server=.;database=MySchool;Integrated Security=True";
 
         /// <summary>
         /// 查询单个值
